@@ -1,32 +1,31 @@
 ################################################################
-#     Trabalho Realizado por:                                  #
+#     This work was done by                                    #
 # 		Fernando Alves, 45592                          #                         
 # 		Filipe Pereira, 44848			       #
-# 		Jose Franco,    44914			       #
-# 		Grupo 052	                               #
+# 		Jose Franco,    			       #
+# 	                  	                               #
 ################################################################
 
 
 ################################################################
-#        Guia do projecto 3 de Sistemas Distribuidos           #
+#        Project number 3 Distributed systems                  #
 ################################################################
 
-    1. Abrir janela de terminal na pasta ROOT das directorias
+    1. Open cmd
 
-    2. Executar o comando 'make table-server'
+    2. Execute command 'make table-server'
 
-    3. Executar o comando 'make table-client'
+    3. Execute command 'make table-client'
  
-    4. Mudar directoria para o directorio 'bin/'
+    4. Change directory to 'bin/'
 
-    5. Utilizar o comando './table-server <port address> <n_lists> 
+    5. Use Command './table-server <port address> <n_lists> 
 	<filename>'
 
-    6. Utilizar o comando './table-client <ipv4 address>:<port address>'
-	pode-se repetir este comando em outro terminal visto que agora 
-	o servidor lida com multiplos clientes
+    6. Use command './table-client <ipv4 address>:<port address>'
+	You can repeat this command since the server now can deal with multiple clients
 
-    7. Utilizar os comandos put, get, update, size, del e quit no terminal.
+    7. Use the commands put, get, update, size, del e quit in the cmd.
 
 
 NOTA: Será criado um .log com o filename pedido, caso se volte o servidor com
