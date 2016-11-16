@@ -1,0 +1,11 @@
+//
+//  Policy file do Servidor
+//
+///////////////////////////////////////////////////////////////////////////////
+grant codeBase "file:${user.dir}/bin/-" {
+	permission java.util.PropertyPermission "user.home", "read";
+	permission java.io.FilePermission       "${user.dir}/data/-", "read,write,delete";
+	permission java.io.FilePermission       "${user.dir}/*", "read";
+	permission java.net.SocketPermission    "localhost:23456", "listen";
+	permission java.net.SocketPermission    "*:23456-", "accept";
+};

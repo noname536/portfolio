@@ -1,0 +1,3 @@
+grant codeBase "file:${user.dir}/bin/-" {
+	permission java.security.AllPermission;
+};
