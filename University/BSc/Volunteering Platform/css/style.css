@@ -1,0 +1,49 @@
+.navbar {
+    border-radius: 0px;
+}
+
+.background-slide-1, .background-slide-2, .background-slide-3 {
+    min-height: 700px;
+}
+
+.background-slide-1 {
+    background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("../res/img/c6.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+.background-slide-2 {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../res/img/c8_2.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+.background-slide-3 {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../res/img/c8.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+/* make sidebar nav vertical */
+@media (min-width: 768px) {
+    .sidebar-nav .navbar .navbar-collapse {
+        padding: 0;
+        max-height: 100%;
+    }
+    .sidebar-nav .navbar ul {
+        float: none;
+    }
+    .sidebar-nav .navbar ul:not {
+        display: block;
+    }
+    .sidebar-nav .navbar li {
+        float: none;
+        display: block;
+    }
+    .sidebar-nav .navbar li a {
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+}
+
+/*Barra de Procura*/
