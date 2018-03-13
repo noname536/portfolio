@@ -1,0 +1,12 @@
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\bin\Debug\BreakoutTests.dll
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\bin\Debug\BreakoutTests.pdb
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\bin\Debug\Breakout.exe
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\bin\Debug\Interop.WMPLib.dll
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\bin\Debug\Breakout.pdb
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\bin\Debug\Breakout.exe.config
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\obj\Debug\BreakoutTests.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\obj\Debug\BreakoutTests.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\obj\Debug\BreakoutTests.dll
+C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout\BreakoutTests\obj\Debug\BreakoutTests.pdb

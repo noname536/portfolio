@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ferna\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Breakout.75720371.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ferna\Documents\mestrado\Competence_Project\Breakout" t="IncludeFlat">
+      <e p="Breakout" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="Ball.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Breakout.csproj" t="IncludeRecursive" />
+        <e p="Brick.cs" t="Include" />
+        <e p="brick_red.bmp" t="Include" />
+        <e p="BrickPattern.cs" t="Include" />
+        <e p="ClassDiagram1.cd" t="Include" />
+        <e p="IndestructibleBrick.cs" t="Include" />
+        <e p="Level1.cs" t="Include" />
+        <e p="Level1.Designer.cs" t="Include" />
+        <e p="Level1.resx" t="Include" />
+        <e p="Level2.cs" t="Include" />
+        <e p="Level2.Designer.cs" t="Include" />
+        <e p="Level2.resx" t="Include" />
+        <e p="LevelSelect.cs" t="Include" />
+        <e p="LevelSelect.Designer.cs" t="Include" />
+        <e p="LevelSelect.resx" t="Include" />
+        <e p="MainMenu.cs" t="Include" />
+        <e p="MainMenu.Designer.cs" t="Include" />
+        <e p="MainMenu.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Paddle.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="red_ball.bmp" t="Include" />
+        <e p="red_ball.png" t="Include" />
+        <e p="Resources" t="Include">
+          <e p="0.png" t="Include" />
+          <e p="1.png" t="Include" />
+          <e p="airadventurelevel4.png" t="Include" />
+          <e p="ball.png" t="Include" />
+          <e p="ball2.bmp" t="Include" />
+          <e p="ball_red.png" t="Include" />
+          <e p="bar_larger.png" t="Include" />
+          <e p="brick_red.bmp" t="Include" />
+          <e p="grey_paddle.png" t="Include" />
+          <e p="heart_container.png" t="Include" />
+          <e p="increaseSpeed.png" t="Include" />
+          <e p="paddle.png" t="Include" />
+          <e p="skulls_adventure.mp3" t="Include" />
+          <e p="slow_ball.png" t="Include" />
+          <e p="smaller_bar.png" t="Include" />
+          <e p="speed_up.png" t="Include" />
+          <e p="star.png" t="Include" />
+          <e p="star_blue.png" t="Include" />
+          <e p="star_gree.png" t="Include" />
+          <e p="star_red.png" t="Include" />
+          <e p="undestructbleBrick.png" t="Include" />
+        </e>
+        <e p="SpecialBrick.cs" t="Include" />
+        <e p="SpecialDrop.cs" t="Include" />
+      </e>
+      <e p="Breakout.sln" t="IncludeFlat" />
+      <e p="BreakoutTests" t="IncludeRecursive">
+        <e p="BallTests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BreakoutTests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
